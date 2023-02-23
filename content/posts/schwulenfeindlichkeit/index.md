@@ -1,7 +1,7 @@
 +++
 title = "Schwulenfeindlichkeit"
 date = "2023-02-23"
-draft = true
+draft = false
 pinned = false
 image = ""
 +++
