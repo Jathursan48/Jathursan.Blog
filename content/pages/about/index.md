@@ -1,13 +1,13 @@
 +++
 title = "About me"
 draft = false
-description = ""
 image = ""
+description = "Jathursan Atputhalingam besucht das Gymnasium Campus Muristalden. "
 +++
 ![](/img/default-author.jpg)
 
 ## My Name
 
-mail@example.org
+jathursan.atputhalingam@stud.muristalden.ch
 
 Here should be some info about me...
