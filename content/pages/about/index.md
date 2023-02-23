@@ -4,7 +4,7 @@ draft = false
 image = ""
 description = "Jathursan Atputhalingam besucht das Gymnasium Campus Muristalden. "
 +++
-![](/img/default-author.jpg)
+![](bildschirm-foto-2023-02-23-um-13.36.43.png)
 
 ## My Name
 
