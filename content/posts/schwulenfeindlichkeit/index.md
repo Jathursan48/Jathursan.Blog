@@ -19,11 +19,7 @@ Der Klimawandel ist ein relevantes Thema
 
 {{</lead>}}
 
-
-
-
-
-{{<box title=“surprise”>}}
+{{<box title="surprise">}}
 
 Moin moinsen
 
