@@ -20,8 +20,6 @@ Rund Zehn Prozent aller Erwachsenen in der Schweiz halten Homosexualität für u
 
 {{</box>}}
 
-
-
 #### **Meine ersten Gefühle**
 
 > Als Kind habe ich mich gerne geschminkt und ich stehe auch dazu.
@@ -42,13 +40,7 @@ Langsam füllt sich das Wankdorf Center mit immer mehr Menschen und es wird stic
 
 > Auch durch die LGBT-Bewegung werden Homosexuelle immer mehr als Menschen akzeptiert.
 
-
-
-{{<box>}}
-
 Die LGBT-Bewegung setzt sich für die Gleichberechtigung und Anerkennung von Lesben, Schwulen, Bisexuellen und Transgender-Personen ein. Sie kämpft gegen Diskriminierung und setzt sich für die rechtliche Anerkennung von gleichgeschlechtlichen Partnerschaften ein. Die Bewegung hat in vielen Ländern zur Legalisierung der gleichgeschlechtlichen Ehe beigetragen und setzt sich auch für die Akzeptanz von Transgender-Personen ein.
-
-{{<box>}}
 
 
 
@@ -58,15 +50,11 @@ Auch in der Schweiz kommt die Akzeptanz von Homosexuellen langsam in Gang. Am 26
 
 {{<box>}}
 
-
-
 #### **Unter falschen Freunden**
 
 > Menschen, die du jahrelang Freunde nennst und dich in schwierigen Zeiten nicht unterstützen, sind keine wahren Freunde.
 
 Das Gespräch wird plötzlich emotional und Kishore fängt an zu weinen. Es ist offensichtlich, dass die Frage ihn mitnimmt und er noch nicht vollständig damit abgeschlossen hat. Kishore erzählt, dass er in seiner Jugend viele Freunde hatte und jeder ihn auf dem Pausenhof kannte. Doch nachdem er sich geoutet hatte, änderte sich alles. Seine engsten Freunde wandten sich von ihm ab, von denen er am wenigsten erwartet hatte, dass sie ihn nicht unterstützen würden. "Das war eine schwere Zeit für mich", sagt Kishore.
-
-
 
 {{<box>}}
 
@@ -77,8 +65,6 @@ Homophobie wird in den Sozialwissenschaften zusammen mit Phänomenen wie Rassism
 Bei Homophobie gibt es viele Einflussfaktoren, die für Vorurteile und Diskriminierung allgemein gelten: Es gibt sehr viel Forschung dazu, warum Menschen andere Gruppen abwerten. Unter anderem hat es etwas mit dem internalisierten Schubladendenken zu tun. Menschen müssen ihre Umwelt vereinfachen und kategorisieren, um sie verstehen zu können, das macht unser Gehirn schon von ganz allein.
 
 {{<box>}}
-
-
 
 #### **Hoffnung für alle**
 
