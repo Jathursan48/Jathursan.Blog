@@ -40,11 +40,13 @@ Langsam füllt sich das Wankdorf Center mit immer mehr Menschen und es wird stic
 
 > Auch durch die LGBT-Bewegung werden Homosexuelle immer mehr als Menschen akzeptiert.
 
+{{<box>}}
+
 Die LGBT-Bewegung setzt sich für die Gleichberechtigung und Anerkennung von Lesben, Schwulen, Bisexuellen und Transgender-Personen ein. Sie kämpft gegen Diskriminierung und setzt sich für die rechtliche Anerkennung von gleichgeschlechtlichen Partnerschaften ein. Die Bewegung hat in vielen Ländern zur Legalisierung der gleichgeschlechtlichen Ehe beigetragen und setzt sich auch für die Akzeptanz von Transgender-Personen ein.
 
+{{<box>}}
 
-
-{{<box title= "Weitere Infos">}}
+{{<box>}}
 
 Auch in der Schweiz kommt die Akzeptanz von Homosexuellen langsam in Gang. Am 26. September 2021 wurde darüber abgestimmt, ob die Ehe auch für gleichgeschlechtliche Paare geöffnet werden soll. Die Schweiz hat mit Ja entschieden. Mit einem Ergebnis von 64,1 % zu 35,9 % wurde diese Abstimmung angenommen.
 
