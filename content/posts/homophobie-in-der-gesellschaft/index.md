@@ -6,7 +6,7 @@ pinned = false
 +++
 {{<lead>}}
 
-#### **Wie beeinflusst die sexuelle Orientierung die Gesellschaft?** In der Schweiz gibt es 500.000 Menschen, die schwul, lesbisch oder bisexuell sind - Kishore ist einer von ihnen. Hier ist seine Geschichte.
+#### **Wie beeinflusst die sexuelle Orientierung die Gesellschaft? In der Schweiz gibt es 500.000 Menschen, die schwul, lesbisch oder bisexuell sind - Kishore ist einer von ihnen. Hier ist seine Geschichte.**
 
 {{<lead>}}
 
