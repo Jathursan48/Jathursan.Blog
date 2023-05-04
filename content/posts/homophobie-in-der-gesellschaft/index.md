@@ -12,7 +12,7 @@ pinned = false
 
 Es ist Samstag. Normalerweise sollte das Wankdorf Center stark besucht sein. Alle Läden sind offen, aber kaum Besuchende umgeben, es herrscht Stille, kein Kindergeschrei oder Geräusche vom Einkassieren im Supermarkt. Am Café Sapori d'Italia kreuzt ein junger Mann auf. Es ist Kishore. Er ist dezent gekleidet und hält eine Tasche in der Hand, auf der ein Regenbogen zu sehen ist. Seine erste Haltung wirkt schüchtern und nervös, aber er empfängt mich herzlich. Kishore geht zur Kellnerin und bestellt zwei Kaffees zum Hiertrinken. Er bietet mir einen Platz an und setzt sich mir gegenüber. "Ich finde es gut, dass Sie das Thema Homosexualität aufgreifen", sagt er zu mir.
 
-![Tasche von Kishore mit einem Regenbogen](https://api2.iloveimg.com/v1/download/3dyqz5wq6h8pxn37rqhps19b9cx5s1vcg41btsbkdxv3sh0xj5hft1vqw5w4mb49nAmtpmb7fyx8tkk49ffn56jd0srt7l2ml61f6g7bcg4krAhcvwz5tbh6Ahq7hfp9Azx7kyyspf6g58gc93A97fdnjxsmrn8hn9hnwrdlwt6904mmrbhq)
+![Tasche von Kishore mit einem Regenbogen](https://api10.iloveimg.com/v1/download/Adxqj98224qqnzgknjh6pw4s25nxjh676cvw8vpw1hw9w1dAz75fjyqnk4sqq42d8rpvncxzwghp824qsAc42bdd4lnmht3Avp8hcddgmgd0822vzAyffq2m4wfhdsr2m6hd1qgsxcp54zhAhtAq1jpcjkqgqbrb3v536ln6sybjkbvcmgp1)
 
 {{<box>}}
 
@@ -52,8 +52,6 @@ Auch in der Schweiz kommt die Akzeptanz von Homosexuellen langsam in Gang. Am 26
 
 {{<box>}}
 
-
-
 #### **Unter falschen Freunden**
 
 > Menschen, die du jahrelang Freunde nennst und dich in schwierigen Zeiten nicht unterstützen, sind keine wahren Freunde.
@@ -62,8 +60,6 @@ Das Gespräch wird plötzlich emotional und Kishore fängt an zu weinen. Es ist 
 
 {{<box>}}
 
-
-
 #### **Kein Platz für Diskrimierung**
 
 Homophobie wird in den Sozialwissenschaften zusammen mit Phänomenen wie Rassismus, Xenophobie oder Sexismus unter den Begriff „gruppenbezogene Menschenfeindlichkeit“ gefasst. Als Lesbophobie wird ein sich mit Homophobie überschneidendes, sexistisches Verhalten gegenüber lesbischen Frauen bezeichnet und ist durch eine doppelte Diskriminierung der davon betroffenen Frauen charakterisiert. 
@@ -71,3 +67,7 @@ Homophobie wird in den Sozialwissenschaften zusammen mit Phänomenen wie Rassism
 Bei Homophobie gibt es viele Einflussfaktoren, die für Vorurteile und Diskriminierung allgemein gelten: Es gibt sehr viel Forschung dazu, warum Menschen andere Gruppen abwerten. Unter anderem hat es etwas mit dem internalisierten Schubladendenken zu tun. Menschen müssen ihre Umwelt vereinfachen und kategorisieren, um sie verstehen zu können, das macht unser Gehirn schon von ganz allein.
 
 {{<box>}}
+
+#### **Hoffnung für alle**
+
+Langsam versammeln sich die YB-Fans vor dem Wankdorf Stadion und das Gespräch neigt sich dem Ende zu. Abschließend schildert Kishore: "Für die Zukunft wünsche ich mir Frieden auf der ganzen Welt und dass jeder Mensch so akzeptiert wird, wie er ist."
