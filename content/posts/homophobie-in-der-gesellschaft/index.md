@@ -66,11 +66,11 @@ Auch in der Schweiz kommt die Akzeptanz von Homosexuellen langsam in Gang. Am 26
 
 Das Gespräch wird plötzlich emotional und Kishore fängt an zu weinen. Es ist offensichtlich, dass die Frage ihn mitnimmt und er noch nicht vollständig damit abgeschlossen hat. Kishore erzählt, dass er in seiner Jugend viele Freunde hatte und jeder ihn auf dem Pausenhof kannte. Doch nachdem er sich geoutet hatte, änderte sich alles. Seine engsten Freunde wandten sich von ihm ab, von denen er am wenigsten erwartet hatte, dass sie ihn nicht unterstützen würden. "Das war eine schwere Zeit für mich", sagt Kishore.
 
+
+
 {{<box>}}
 
-
-
-#### **Kein Platz für Diskrimierung**
+**Kein Platz für Diskrimierung**
 
 Homophobie wird in den Sozialwissenschaften zusammen mit Phänomenen wie Rassismus, Xenophobie oder Sexismus unter den Begriff „gruppenbezogene Menschenfeindlichkeit“ gefasst. Als Lesbophobie wird ein sich mit Homophobie überschneidendes, sexistisches Verhalten gegenüber lesbischen Frauen bezeichnet und ist durch eine doppelte Diskriminierung der davon betroffenen Frauen charakterisiert. 
 
