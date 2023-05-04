@@ -32,6 +32,8 @@ Kishore ist 15 Jahre alt, als ihm zum ersten Mal auffällt, dass er Gefühle fü
 
 Seine Eltern würde er eher als lockere, entspannte Menschen beschreiben, die dieses Thema auch eher locker aufgenommen haben. Beim Abendessen unterhält er sich gelegentlich mit seiner Familie über Themen wie Sexualität und Verhütung. Eines Abends beschloss er, offen über seine sexuelle Orientierung zu sprechen und äußerte seine Gefühle, die er für einen Jungen empfindet.
 
+
+
 Langsam füllt sich das Wankdorf Center mit immer mehr Menschen und es wird stickiger. Ein Mann im YB-Trikot läuft an uns vorbei. Ein Mann im YB-Trikot läuft an uns vorbei. "Heute spielt YB", lässt sich aus einem Gespräch zwischen zwei Frauen hören. Kishore schlürft derweil an seinem Kaffee und seine Mimik verrät, dass er sich wohlfühlt.
 
 #### Jede Stimme zählt
@@ -47,3 +49,7 @@ Die LGBT-Bewegung setzt sich für die Gleichberechtigung und Anerkennung von Les
 {{<box title= "Weitere Infos">}}
 
 Auch in der Schweiz kommt die Akzeptanz von Homosexuellen langsam in Gang. Am 26. September 2021 wurde darüber abgestimmt, ob die Ehe auch für gleichgeschlechtliche Paare geöffnet werden soll. Die Schweiz hat mit Ja entschieden. Mit einem Ergebnis von 64,1 % zu 35,9 % wurde diese Abstimmung angenommen.
+
+#### Unter falschen Freunden
+
+> Menschen, die du jahrelang Freunde nennst und dich in schwierigen Zeiten nicht unterstützen, sind keine wahren Freunde.
