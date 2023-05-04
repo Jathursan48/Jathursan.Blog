@@ -12,7 +12,7 @@ pinned = false
 
 Es ist Samstag. Normalerweise sollte das Wankdorf Center stark besucht sein. Alle Läden sind offen, aber kaum Besuchende umgeben, es herrscht Stille, kein Kindergeschrei oder Geräusche vom Einkassieren im Supermarkt. Am Café Sapori d'Italia kreuzt ein junger Mann auf. Es ist Kishore. Er ist dezent gekleidet und hält eine Tasche in der Hand, auf der ein Regenbogen zu sehen ist. Seine erste Haltung wirkt schüchtern und nervös, aber er empfängt mich herzlich. Kishore geht zur Kellnerin und bestellt zwei Kaffees zum Hiertrinken. Er bietet mir einen Platz an und setzt sich mir gegenüber. "Ich finde es gut, dass Sie das Thema Homosexualität aufgreifen", sagt er zu mir.
 
-![Tasche von Kishore mit einem Regenbogen](https://api9.iloveimg.com/v1/download/yAwy4Axs2Ah4Agfvh52cs1fvr255sm086w3bvg486dx7r1pvzdn3s6Apyd1AAvqmbct1152n0xnkw503v65rbpt640hdk0c90f8h98gwf0fj6gbqx6r81h7gx5jbAr4z808jcb0d5fzqpwnbyh062zl4mlqct4hthm66wbg6hq76d116s9x1)
+![Tasche von Kishore mit einem Regenbogen](https://api2.iloveimg.com/v1/download/3dyqz5wq6h8pxn37rqhps19b9cx5s1vcg41btsbkdxv3sh0xj5hft1vqw5w4mb49nAmtpmb7fyx8tkk49ffn56jd0srt7l2ml61f6g7bcg4krAhcvwz5tbh6Ahq7hfp9Azx7kyyspf6g58gc93A97fdnjxsmrn8hn9hnwrdlwt6904mmrbhq)
 
 {{<box>}}
 
@@ -52,6 +52,8 @@ Auch in der Schweiz kommt die Akzeptanz von Homosexuellen langsam in Gang. Am 26
 
 {{<box>}}
 
+
+
 #### **Unter falschen Freunden**
 
 > Menschen, die du jahrelang Freunde nennst und dich in schwierigen Zeiten nicht unterstützen, sind keine wahren Freunde.
@@ -59,6 +61,8 @@ Auch in der Schweiz kommt die Akzeptanz von Homosexuellen langsam in Gang. Am 26
 Das Gespräch wird plötzlich emotional und Kishore fängt an zu weinen. Es ist offensichtlich, dass die Frage ihn mitnimmt und er noch nicht vollständig damit abgeschlossen hat. Kishore erzählt, dass er in seiner Jugend viele Freunde hatte und jeder ihn auf dem Pausenhof kannte. Doch nachdem er sich geoutet hatte, änderte sich alles. Seine engsten Freunde wandten sich von ihm ab, von denen er am wenigsten erwartet hatte, dass sie ihn nicht unterstützen würden. "Das war eine schwere Zeit für mich", sagt Kishore.
 
 {{<box>}}
+
+
 
 #### **Kein Platz für Diskrimierung**
 
