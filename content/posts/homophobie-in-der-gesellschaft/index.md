@@ -20,13 +20,13 @@ Rund Zehn Prozent aller Erwachsenen in der Schweiz halten Homosexualität für u
 
 {{</box>}}
 
-##### Meine ersten Gefühle
+#### Meine ersten Gefühle
 
 > Als Kind habe ich mich gerne geschminkt und ich stehe auch dazu.
 
 Kishore ist 15 Jahre alt, als ihm zum ersten Mal auffällt, dass er Gefühle für einen Jungen empfindet. Während Wochen verfolgt ihn diese Unsicherheit. Kishore sucht nach Gesprächen mit seinen Freunden, aber erfolglos. Keiner ist offen für ein Gespräch. Nicht nur Kishore fiel es schwer, offen über seine sexuelle Orientierung zu sprechen. Vielen Jugendlichen geht es genauso, aus Angst vor Prügel, verbalen Attacken sowie Hassbriefen.
 
-##### **Familie über alles**
+#### **Familie über alles**
 
 > Meine Eltern waren für mich da, als ich niemanden hatte.
 
@@ -34,7 +34,7 @@ Seine Eltern würde er eher als lockere, entspannte Menschen beschreiben, die di
 
 Langsam füllt sich das Wankdorf Center mit immer mehr Menschen und es wird stickiger. Ein Mann im YB-Trikot läuft an uns vorbei. Ein Mann im YB-Trikot läuft an uns vorbei. "Heute spielt YB", lässt sich aus einem Gespräch zwischen zwei Frauen hören. Kishore schlürft derweil an seinem Kaffee und seine Mimik verrät, dass er sich wohlfühlt.
 
-##### Jede Stimme zählt
+#### Jede Stimme zählt
 
 > Auch durch die LGBT-Bewegung werden Homosexuelle immer mehr als Menschen akzeptiert.
 
