@@ -13,7 +13,7 @@ Als ich auf die Volksschule ging, lernte ich einen Jungen kennen. Anfangs war es
 
 **Wie haben Sie Ihre sexuelle Orientierung Ihren Eltern mitgeteilt?**
 
-> Ich empfinde etwas für einen Jungen
+> Ich empfinde etwas für einen Jungen aus meiner Schule.
 
 Fast jeden Abend beim Abendessen unterhalte ich mich mit meiner Familie und ab und zu sprechen wir auch über Sexualität und Verhütung. Eines Abends habe ich zum ersten Mal offen über meine sexuelle Orientierung gesprochen und gesagt, dass ich Gefühle für einen Jungen empfinde.
 
@@ -24,6 +24,10 @@ Ich würde meine Eltern eher als lockere, entspannte Menschen beschreiben, daher
 **Unterstützen Sie auch bestimmte Organisationen oder Vereine der LGBTQ-Bewegung und nehmen Sie gelegentlich an Veranstaltungen teil?**
 
 Sicher, natürlich unterstütze ich die LGBQ-Bewegung. Allerdings bin ich momentan nicht so oft auf Demos oder Veranstaltungen anzutreffen, da ich ab und zu ängstlich und schüchtern bin. Trotzdem unterstütze ich die Community weiterhin.
+
+**Wie ist ihre Haltung grundsätzlich zu Demonstrationen?**
+
+Grundsätzlich finde ich gewalttätige Demonstrationen nicht gut, denn Demonstrationen sollten immer friedlich stattfinden.
 
 **Wie hat sich nach Ihrer Meinung die Akzeptanz der Homosexuellen in den letzten Jahren weiterentwickelt?** 
 
