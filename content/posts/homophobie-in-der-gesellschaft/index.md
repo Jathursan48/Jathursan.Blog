@@ -32,7 +32,7 @@ Kishore ist 15 Jahre alt, als ihm zum ersten Mal auffällt, dass er Gefühle fü
 
 Seine Eltern würde er eher als lockere, entspannte Menschen beschreiben, die dieses Thema auch eher locker aufgenommen haben. Beim Abendessen unterhält er sich gelegentlich mit seiner Familie über Themen wie Sexualität und Verhütung. Eines Abends beschloss er, offen über seine sexuelle Orientierung zu sprechen und äußerte seine Gefühle, die er für einen Jungen empfindet.
 
-
+<hr>
 
 Langsam füllt sich das Wankdorf Center mit immer mehr Menschen und es wird stickiger. Ein Mann im YB-Trikot läuft an uns vorbei. Ein Mann im YB-Trikot läuft an uns vorbei. "Heute spielt YB", lässt sich aus einem Gespräch zwischen zwei Frauen hören. Kishore schlürft derweil an seinem Kaffee und seine Mimik verrät, dass er sich wohlfühlt.
 
