@@ -36,7 +36,7 @@ Seine Eltern würde er eher als lockere, entspannte Menschen beschreiben, die di
 
 Langsam füllt sich das Wankdorf Center mit immer mehr Menschen und es wird stickiger. Ein Mann im YB-Trikot läuft an uns vorbei. Ein Mann im YB-Trikot läuft an uns vorbei. "Heute spielt YB", lässt sich aus einem Gespräch zwischen zwei Frauen hören. Kishore schlürft derweil an seinem Kaffee und seine Mimik verrät, dass er sich wohlfühlt.
 
-#### **Jede Stimme zählt**
+#### **Zusammen sind wir stark**
 
 > Auch durch die LGBT-Bewegung werden Homosexuelle immer mehr als Menschen akzeptiert.
 
@@ -57,3 +57,13 @@ Auch in der Schweiz kommt die Akzeptanz von Homosexuellen langsam in Gang. Am 26
 > Menschen, die du jahrelang Freunde nennst und dich in schwierigen Zeiten nicht unterstützen, sind keine wahren Freunde.
 
 Das Gespräch wird plötzlich emotional und Kishore fängt an zu weinen. Es ist offensichtlich, dass die Frage ihn mitnimmt und er noch nicht vollständig damit abgeschlossen hat. Kishore erzählt, dass er in seiner Jugend viele Freunde hatte und jeder ihn auf dem Pausenhof kannte. Doch nachdem er sich geoutet hatte, änderte sich alles. Seine engsten Freunde wandten sich von ihm ab, von denen er am wenigsten erwartet hatte, dass sie ihn nicht unterstützen würden. "Das war eine schwere Zeit für mich", sagt Kishore.
+
+{{<box>}}
+
+#### **Kein Platz für Diskrimierung**
+
+Homophobie wird in den Sozialwissenschaften zusammen mit Phänomenen wie Rassismus, Xenophobie oder Sexismus unter den Begriff „gruppenbezogene Menschenfeindlichkeit“ gefasst. Als Lesbophobie wird ein sich mit Homophobie überschneidendes, sexistisches Verhalten gegenüber lesbischen Frauen bezeichnet und ist durch eine doppelte Diskriminierung der davon betroffenen Frauen charakterisiert. 
+
+Bei Homophobie gibt es viele Einflussfaktoren, die für Vorurteile und Diskriminierung allgemein gelten: Es gibt sehr viel Forschung dazu, warum Menschen andere Gruppen abwerten. Unter anderem hat es etwas mit dem internalisierten Schubladendenken zu tun. Menschen müssen ihre Umwelt vereinfachen und kategorisieren, um sie verstehen zu können, das macht unser Gehirn schon von ganz allein.
+
+{{<box>}}
