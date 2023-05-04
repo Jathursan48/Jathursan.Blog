@@ -22,6 +22,8 @@ Rund Zehn Prozent aller Erwachsenen in der Schweiz halten Homosexualität für u
 
 {{</box>}}
 
+
+
 #### **Meine ersten Gefühle**
 
 > Als Kind habe ich mich gerne geschminkt und ich stehe auch dazu.
@@ -42,17 +44,23 @@ Langsam füllt sich das Wankdorf Center mit immer mehr Menschen und es wird stic
 
 > Auch durch die LGBT-Bewegung werden Homosexuelle immer mehr als Menschen akzeptiert.
 
+
+
 {{<box>}}
 
 Die LGBT-Bewegung setzt sich für die Gleichberechtigung und Anerkennung von Lesben, Schwulen, Bisexuellen und Transgender-Personen ein. Sie kämpft gegen Diskriminierung und setzt sich für die rechtliche Anerkennung von gleichgeschlechtlichen Partnerschaften ein. Die Bewegung hat in vielen Ländern zur Legalisierung der gleichgeschlechtlichen Ehe beigetragen und setzt sich auch für die Akzeptanz von Transgender-Personen ein.
 
 {{<box>}}
 
+
+
 {{<box title= "Weitere Infos">}}
 
 Auch in der Schweiz kommt die Akzeptanz von Homosexuellen langsam in Gang. Am 26. September 2021 wurde darüber abgestimmt, ob die Ehe auch für gleichgeschlechtliche Paare geöffnet werden soll. Die Schweiz hat mit Ja entschieden. Mit einem Ergebnis von 64,1 % zu 35,9 % wurde diese Abstimmung angenommen.
 
 {{<box>}}
+
+
 
 #### **Unter falschen Freunden**
 
@@ -62,6 +70,8 @@ Das Gespräch wird plötzlich emotional und Kishore fängt an zu weinen. Es ist 
 
 {{<box>}}
 
+
+
 #### **Kein Platz für Diskrimierung**
 
 Homophobie wird in den Sozialwissenschaften zusammen mit Phänomenen wie Rassismus, Xenophobie oder Sexismus unter den Begriff „gruppenbezogene Menschenfeindlichkeit“ gefasst. Als Lesbophobie wird ein sich mit Homophobie überschneidendes, sexistisches Verhalten gegenüber lesbischen Frauen bezeichnet und ist durch eine doppelte Diskriminierung der davon betroffenen Frauen charakterisiert. 
@@ -69,6 +79,8 @@ Homophobie wird in den Sozialwissenschaften zusammen mit Phänomenen wie Rassism
 Bei Homophobie gibt es viele Einflussfaktoren, die für Vorurteile und Diskriminierung allgemein gelten: Es gibt sehr viel Forschung dazu, warum Menschen andere Gruppen abwerten. Unter anderem hat es etwas mit dem internalisierten Schubladendenken zu tun. Menschen müssen ihre Umwelt vereinfachen und kategorisieren, um sie verstehen zu können, das macht unser Gehirn schon von ganz allein.
 
 {{<box>}}
+
+
 
 #### **Hoffnung für alle**
 
