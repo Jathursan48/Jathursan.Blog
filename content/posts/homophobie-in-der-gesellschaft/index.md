@@ -50,6 +50,8 @@ Die LGBT-Bewegung setzt sich für die Gleichberechtigung und Anerkennung von Les
 
 Auch in der Schweiz kommt die Akzeptanz von Homosexuellen langsam in Gang. Am 26. September 2021 wurde darüber abgestimmt, ob die Ehe auch für gleichgeschlechtliche Paare geöffnet werden soll. Die Schweiz hat mit Ja entschieden. Mit einem Ergebnis von 64,1 % zu 35,9 % wurde diese Abstimmung angenommen.
 
+{{<box>}}
+
 #### Unter falschen Freunden
 
 > Menschen, die du jahrelang Freunde nennst und dich in schwierigen Zeiten nicht unterstützen, sind keine wahren Freunde.
