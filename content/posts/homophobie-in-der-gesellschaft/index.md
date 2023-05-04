@@ -34,7 +34,7 @@ Seine Eltern würde er eher als lockere, entspannte Menschen beschreiben, die di
 
 <hr>
 
-Langsam füllt sich das Wankdorf Center mit immer mehr Menschen und es wird stickiger. Ein Mann im YB-Trikot läuft an uns vorbei. "Heute spielt YB", lässt sich aus einem Gespräch zwischen zwei Frauen hören. Kishore schlürft derweil an seinem Kaffee und seine Mimik verrät, dass er sich wohlfühlt.
+Das Wankdorf Center füllt sich langsam mit immer mehr Menschen und die Luft wird stickiger. Ein Mann im YB-Trikot läuft an uns vorbei. "Heute spielt YB", lässt sich aus einem Gespräch zwischen zwei Frauen hören. Kishore schlürft derweil an seinem Kaffee und seine Mimik verrät, dass er sich wohlfühlt.
 
 #### **Zusammen sind wir stark**
 
