@@ -12,6 +12,8 @@ pinned = false
 
 Es ist Samstag. Normalerweise sollte das Wankdorf Center stark besucht sein. Alle Läden sind offen, aber kaum Besuchende umgeben, es herrscht Stille, kein Kindergeschrei oder Geräusche vom Einkassieren im Supermarkt. Am Café Sapori d'Italia kreuzt ein junger Mann auf. Es ist Kishore. Er ist dezent gekleidet und hält eine Tasche in der Hand, auf der ein Regenbogen zu sehen ist. Seine erste Haltung wirkt schüchtern und nervös, aber er empfängt mich herzlich. Kishore geht zur Kellnerin und bestellt zwei Kaffees zum Hiertrinken. Er bietet mir einen Platz an und setzt sich mir gegenüber. "Ich finde es gut, dass Sie das Thema Homosexualität aufgreifen", sagt er zu mir.
 
+![Tasche von Kishore mit einem Regenbogen](https://api9.iloveimg.com/v1/download/yAwy4Axs2Ah4Agfvh52cs1fvr255sm086w3bvg486dx7r1pvzdn3s6Apyd1AAvqmbct1152n0xnkw503v65rbpt640hdk0c90f8h98gwf0fj6gbqx6r81h7gx5jbAr4z808jcb0d5fzqpwnbyh062zl4mlqct4hthm66wbg6hq76d116s9x1)
+
 {{<box>}}
 
 Rund Zehn Prozent aller Erwachsenen in der Schweiz halten Homosexualität für unmoralisch. Das zeigt eine neue Untersuchung.
