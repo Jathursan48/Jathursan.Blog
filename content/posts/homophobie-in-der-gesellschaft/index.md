@@ -16,7 +16,7 @@ Es ist Samstag. Normalerweise sollte das Wankdorf Center stark besucht sein. All
 
 Rund Zehn Prozent aller Erwachsenen in der Schweiz halten Homosexualität für unmoralisch. Das zeigt eine neue Untersuchung.
 
-{{<box>}}
+{{</box>}}
 
 
 
@@ -26,6 +26,8 @@ Rund Zehn Prozent aller Erwachsenen in der Schweiz halten Homosexualität für u
 
 Kishore ist 15 Jahre alt, als ihm zum ersten Mal auffällt, dass er Gefühle für einen Jungen empfindet. Während Wochen verfolgt ihn diese Unsicherheit. Kishore sucht nach Gesprächen mit seinen Freunden, aber erfolglos. Keiner ist offen für ein Gespräch. Nicht nur Kishore fiel es schwer, offen über seine sexuelle Orientierung zu sprechen. Vielen Jugendlichen geht es genauso, aus Angst vor Prügel, verbalen Attacken sowie Hassbriefen.
 
-Jedoch ist Kishore sehr glücklich darüber, dass er aus gutem Hause stammt.
+Kishore ist sehr glücklich darüber, dass er aus gutem Hause stammt.
 
 > Meine Eltern waren für mich da, als ich niemanden hatte.
+
+Seine Eltern würde er eher als lockere, entspannte Menschen beschreiben, die dieses Thema auch eher locker aufgenommen haben.
