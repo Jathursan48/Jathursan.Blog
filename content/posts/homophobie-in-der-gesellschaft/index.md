@@ -12,7 +12,7 @@ pinned = false
 
 Es ist Samstag. Normalerweise sollte das Wankdorf Center stark besucht sein. Alle Läden sind offen, aber kaum Besuchende umgeben, es herrscht Stille, kein Kindergeschrei oder Geräusche vom Einkassieren im Supermarkt. Am Café Sapori d'Italia kreuzt ein junger Mann auf. Es ist Kishore. Er ist dezent gekleidet und hält eine Tasche in der Hand, auf der ein Regenbogen zu sehen ist. Seine erste Haltung wirkt schüchtern und nervös, aber er empfängt mich herzlich. Kishore geht zur Kellnerin und bestellt zwei Kaffees zum Hiertrinken. Er bietet mir einen Platz an und setzt sich mir gegenüber. "Ich finde es gut, dass Sie das Thema Homosexualität aufgreifen", sagt er zu mir.
 
-![Tasche von Kishore mit einem Regenbogen](https://api10.iloveimg.com/v1/download/Adxqj98224qqnzgknjh6pw4s25nxjh676cvw8vpw1hw9w1dAz75fjyqnk4sqq42d8rpvncxzwghp824qsAc42bdd4lnmht3Avp8hcddgmgd0822vzAyffq2m4wfhdsr2m6hd1qgsxcp54zhAhtAq1jpcjkqgqbrb3v536ln6sybjkbvcmgp1)
+![Tasche von Kishore mit einem Regenbogen](https://api13.iloveimg.com/v1/download/2n6zAllf2jgt78jssAtctdw3zv2qz3d44pn7k6d5c1cg7xp9j9tjxjA8q145b70jzbc56m9fszmnfcmlglmcAjpfyytwrhgwp3lc7p083r8pqczty4sz66nwrbp2krb19vbn41n6hhwbzjkprd7ytxfktysfms59w4v4byh4dnysm78g6kb1)
 
 {{<box>}}
 
