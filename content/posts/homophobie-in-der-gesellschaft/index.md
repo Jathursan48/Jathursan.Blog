@@ -24,7 +24,7 @@ Rund Zehn Prozent aller Erwachsenen in der Schweiz halten Homosexualität für u
 
 Kishore ist 15 Jahre alt, als ihm zum ersten Mal auffällt, dass er Gefühle für einen Jungen empfindet. Während Wochen verfolgt ihn diese Unsicherheit. Kishore sucht nach Gesprächen mit seinen Freunden, aber erfolglos. Keiner ist offen für ein Gespräch. Nicht nur Kishore fiel es schwer, offen über seine sexuelle Orientierung zu sprechen. Vielen Jugendlichen geht es genauso, aus Angst vor Prügel, verbalen Attacken sowie Hassbriefen.
 
-Kishore ist sehr glücklich darüber, dass er aus gutem Hause stammt.
+##### **Ich komme aus gutem Hause**
 
 > Meine Eltern waren für mich da, als ich niemanden hatte.
 
