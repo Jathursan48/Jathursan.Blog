@@ -9,7 +9,7 @@ description = ""
 
 {{</lead>}}
 
-Samstagmorgen im Wankdorf Center. Normalerweise wimmelt es hier von Menschen, aber heute herrscht Stille. Kein Kinderlachen, kein Gemurmel von Passanten und kein Rattern der Kassiermaschinen ist zu hören. Die Läden sind geöffnet, aber es gibt kaum Besucher. Am Café Sapori d'Italia kreuzt ein junger Mann auf. Es ist Kishore. Er ist dezent gekleidet und trägt eine Tasche mit einem Regenbogen-Muster. Obwohl er auf den ersten Blick schüchtern und nervös wirkt, begrüsst er mich herzlich. Kishore geht zur Kellnerin und bestellt zwei Kaffees zum Hiertrinken. Dann bietet er mir einen Platz an und setzt sich mir gegenüber. "Ich finde es gut, dass Sie das Thema Homosexualität aufgreifen", sagt er zu mir.
+Samstagmorgen im Wankdorf Center. Normalerweise wimmelt es hier von Menschen, aber heute herrscht Stille. Kein Kinderlachen, kein Gemurmel von Passanten und kein Rattern der Kassiermaschinen ist zu hören. Die Läden sind geöffnet, aber es gibt kaum Besucher. Am Café Sapori d'Italia kreuzt ein junger Mann auf. Es ist Kishore. Er ist dezent gekleidet und trägt eine Tasche mit einem Regenbogen-Muster. Obwohl er auf den ersten Blick schüchtern und nervös wirkt, begrüsst er mich herzlich. Kishore geht zur Kellnerin und bestellt zwei Kaffees zum Hiertrinken. Dann bietet er mir einen Platz an und setzt sich mir gegenüber. "Ich finde es gut, dass sie das Thema Homosexualität aufgreifen", sagt er zu mir.
 
 ![Tasche von Kishore mit Regenbogen](originallle-2-2-2-2-2.jpg)
 
@@ -29,7 +29,7 @@ Seine Eltern würde er eher als lockere, entspannte Menschen beschreiben, die di
 
 <hr>
 
-Die Menschenmenge im Wankdorf Center wächst langsam an und die Luft wird dichter. Ein Mann in einem YB-Trikot eilt an uns vorbei. "Heute spielt YB", höre ich zwei Frauen sagen. Währenddessen schlürft Kishore seinen Kaffee und sein Gesichtsausdruck zeigt, dass er sich wohl fühlt.
+Die Menschenmenge im Wankdorf Center wächst langsam an und die Luft wird dichter. Ein Mann in einem YB-Trikot eilt an uns vorbei. "Heute spielt YB", höre ich zwei Frauen sagen. Währenddessen schlürft Kishore seinen Kaffee. Trotz des Trubels um uns herum bleibt Kishore ruhig und entspannt. Wir unterhalten uns weiter.
 
 #### **Zusammen sind wir stark**
 
@@ -47,7 +47,7 @@ Das Gespräch wird plötzlich emotional und Kishore fängt an zu weinen. Es ist 
 
 #### **Hoffnung für alle**
 
-Langsam versammeln sich die YB-Fans vor dem Wankdorf Stadion und das Gespräch neigt sich dem Ende zu. Abschließend schildert Kishore: "Für die Zukunft wünsche ich mir Frieden auf der ganzen Welt und dass jeder Mensch so akzeptiert wird, wie er ist."
+Vor dem Wankdorf-Stadion sehe ich eine große Gruppe von YB-Fans, die sich auf das Spiel vorbereiten. Das Gespräch mit Kishore neigt sich dem Ende zu. Zum Abschluss unseres Gesprächs teilt Kishore seine Gedanken zur Zukunft: "Ich wünsche mir Frieden auf der ganzen Welt und dass jeder Mensch so akzeptiert wird, wie er ist", sagt er mit ruhiger Stimme. Sein Wunsch ist ein wichtiger Aufruf zur Toleranz und Akzeptanz gegenüber aller Menschen, unabhängig von ihrer sexuellen Orientierung oder Geschlechtsidentität. Kishores Worte zeigen, wie wichtig es ist, dass wir uns gemeinsam für eine Welt einsetzen, in der jede Person respektiert und anerkannt wird. Ich bedanke mich bei Kishore für seine Offenheit und seinen Mut, seine Geschichte zu teilen. Seine Erfahrungen und Ansichten haben mich tief berührt und inspiriert.
 
 {{<box title="Weitere Informationen über Homophobie:">}} Homophobie wird in den Sozialwissenschaften zusammen mit Phänomenen wie Rassismus, Xenophobie oder Sexismus unter den Begriff „gruppenbezogene Menschenfeindlichkeit“ gefasst. Als Lesbophobie wird ein sich mit Homophobie überschneidendes, sexistisches Verhalten gegenüber lesbischen Frauen bezeichnet und ist durch eine doppelte Diskriminierung der davon betroffenen Frauen charakterisiert. 
 
