@@ -48,6 +48,8 @@ Auch in der Schweiz kommt die Akzeptanz von Homosexuellen langsam in Gang. Am 26
 
 {{<box>}}
 
+
+
 #### **Unter falschen Freunden**
 
 > Menschen, die du jahrelang Freunde nennst und dich in schwierigen Zeiten nicht unterstützen, sind keine wahren Freunde.
