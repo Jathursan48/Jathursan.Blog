@@ -11,9 +11,7 @@ Es ist Samstag. Normalerweise sollte das Wankdorf Center stark besucht sein. All
 
 ![Tasche von Kishore mit Regenbogen](originallle-2-2-2-2-2.jpg)
 
-{{<box>}} Rund Zehn Prozent aller Erwachsenen in der Schweiz halten Homosexualität für unmoralisch. Das zeigt eine neue Untersuchung. 
-
-{{</box>}}
+{{<box>}} Rund Zehn Prozent aller Erwachsenen in der Schweiz halten Homosexualität für unmoralisch. Das zeigt eine neue Untersuchung.                                                                                                                            {{</box>}}
 
 #### **Meine ersten Gefühle**
 
@@ -37,9 +35,7 @@ Das Wankdorf Center füllt sich langsam mit immer mehr Menschen und die Luft wir
 
 {{<box>}} Die LGBT-Bewegung setzt sich für die Gleichberechtigung und Anerkennung von Lesben, Schwulen, Bisexuellen und Transgender-Personen ein. Sie kämpft gegen Diskriminierung und setzt sich für die rechtliche Anerkennung von gleichgeschlechtlichen Partnerschaften ein. Die Bewegung hat in vielen Ländern zur Legalisierung der gleichgeschlechtlichen Ehe beigetragen und setzt sich auch für die Akzeptanz von Transgender-Personen ein.
 
-Auch in der Schweiz kommt die Akzeptanz von Homosexuellen langsam in Gang. Am 26. September 2021 wurde darüber abgestimmt, ob die Ehe auch für gleichgeschlechtliche Paare geöffnet werden soll. Die Schweiz hat mit Ja entschieden. Mit einem Ergebnis von 64,1 % zu 35,9 % wurde diese Abstimmung angenommen. 
-
-{{<box>}}
+Auch in der Schweiz kommt die Akzeptanz von Homosexuellen langsam in Gang. Am 26. September 2021 wurde darüber abgestimmt, ob die Ehe auch für gleichgeschlechtliche Paare geöffnet werden soll. Die Schweiz hat mit Ja entschieden. Mit einem Ergebnis von 64,1 % zu 35,9 % wurde diese Abstimmung angenommen.                                                                                                                                                          {{<box>}}
 
 
 
@@ -57,6 +53,4 @@ Langsam versammeln sich die YB-Fans vor dem Wankdorf Stadion und das Gespräch n
 
 {{<box title="Weitere Informationen über Homophobie:">}} Homophobie wird in den Sozialwissenschaften zusammen mit Phänomenen wie Rassismus, Xenophobie oder Sexismus unter den Begriff „gruppenbezogene Menschenfeindlichkeit“ gefasst. Als Lesbophobie wird ein sich mit Homophobie überschneidendes, sexistisches Verhalten gegenüber lesbischen Frauen bezeichnet und ist durch eine doppelte Diskriminierung der davon betroffenen Frauen charakterisiert. 
 
-Bei Homophobie gibt es viele Einflussfaktoren, die für Vorurteile und Diskriminierung allgemein gelten: Es gibt sehr viel Forschung dazu, warum Menschen andere Gruppen abwerten. Unter anderem hat es etwas mit dem internalisierten Schubladendenken zu tun. Menschen müssen ihre Umwelt vereinfachen und kategorisieren, um sie verstehen zu können, das macht unser Gehirn schon von ganz allein. 
-
-{{<box>}}
+Bei Homophobie gibt es viele Einflussfaktoren, die für Vorurteile und Diskriminierung allgemein gelten: Es gibt sehr viel Forschung dazu, warum Menschen andere Gruppen abwerten. Unter anderem hat es etwas mit dem internalisierten Schubladendenken zu tun. Menschen müssen ihre Umwelt vereinfachen und kategorisieren, um sie verstehen zu können, das macht unser Gehirn schon von ganz allein.                                               {{<box>}}
