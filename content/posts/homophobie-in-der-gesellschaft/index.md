@@ -15,6 +15,10 @@ Es ist Samstag. Normalerweise sollte das Wankdorf Center stark besucht sein. All
 
 {{<box>}} Rund Zehn Prozent aller Erwachsenen in der Schweiz halten Homosexualität für unmoralisch. Das zeigt eine neue Untersuchung.                                                                                                                            {{</box>}}
 
+{{<box title="Weitere Informationen zur Person:">}}
+
+{{</box>}}
+
 #### **Meine ersten Gefühle**
 
 > Als Kind habe ich mich gerne geschminkt und ich stehe auch dazu.
