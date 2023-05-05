@@ -15,12 +15,6 @@ Es ist Samstag. Normalerweise sollte das Wankdorf Center stark besucht sein. All
 
 {{<box>}} Rund Zehn Prozent aller Erwachsenen in der Schweiz halten Homosexualität für unmoralisch. Das zeigt eine neue Untersuchung.                                                                                                                            {{</box>}}
 
-{{<box title="Weitere Informationen zur Person:">}}
-
-Kishore Tharmalingam (17), er lebt in Ittigen, macht eine Ausbildung als Elektriker und kommt ursprünglich aus Sri Lanka.  
-
-{{</box>}}
-
 #### **Meine ersten Gefühle**
 
 > Als Kind habe ich mich gerne geschminkt und ich stehe auch dazu.
@@ -60,3 +54,9 @@ Langsam versammeln sich die YB-Fans vor dem Wankdorf Stadion und das Gespräch n
 {{<box title="Weitere Informationen über Homophobie:">}} Homophobie wird in den Sozialwissenschaften zusammen mit Phänomenen wie Rassismus, Xenophobie oder Sexismus unter den Begriff „gruppenbezogene Menschenfeindlichkeit“ gefasst. Als Lesbophobie wird ein sich mit Homophobie überschneidendes, sexistisches Verhalten gegenüber lesbischen Frauen bezeichnet und ist durch eine doppelte Diskriminierung der davon betroffenen Frauen charakterisiert. 
 
 Bei Homophobie gibt es viele Einflussfaktoren, die für Vorurteile und Diskriminierung allgemein gelten: Es gibt sehr viel Forschung dazu, warum Menschen andere Gruppen abwerten. Unter anderem hat es etwas mit dem internalisierten Schubladendenken zu tun. Menschen müssen ihre Umwelt vereinfachen und kategorisieren, um sie verstehen zu können, das macht unser Gehirn schon von ganz allein.                                               {{</box>}}
+
+{{<box title="Weitere Informationen zur Person:">}}
+
+Kishore Tharmalingam (17), er lebt in Ittigen, macht eine Ausbildung als Elektriker und kommt ursprünglich aus Sri Lanka.  
+
+{{</box>}}
