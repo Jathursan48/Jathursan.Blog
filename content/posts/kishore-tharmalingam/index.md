@@ -27,7 +27,7 @@ Ich würde meine Eltern eher als lockere, entspannte Menschen beschreiben, daher
 
 Sicher, natürlich unterstütze ich die LGBQ-Bewegung. Allerdings bin ich momentan nicht so oft auf Demos oder Veranstaltungen anzutreffen, da ich ab und zu ängstlich und schüchtern bin. Trotzdem unterstütze ich die Community weiterhin.
 
-**Wie ist ihre Haltung grundsätzlich zu Demonstrationen?**
+**Wie ist Ihre Haltung grundsätzlich zu Demonstrationen?**
 
 Grundsätzlich finde ich gewalttätige Demonstrationen nicht gut, denn Demonstrationen sollten immer friedlich stattfinden.
 
@@ -39,7 +39,7 @@ Ich denke, dass sich die Akzeptanz für Homosexuelle in den letzten Jahren posit
 
 Ja, es gibt einige von ihnen. Ich dachte, sie würden mich am meisten unterstützen und immer zu mir stehen, aber es stellte sich heraus, dass sie keine wahren Freunde waren.
 
-**Wie sehen sie die Zukunft und was wünschen sie sich?** 
+**Wie sehen Sie die Zukunft und was wünschen Sie sich?** 
 
 Ich wünsche mir, dass die Welt friedlicher wird und dass jeder Mensch in seiner Individualität akzeptiert wird. 
 
