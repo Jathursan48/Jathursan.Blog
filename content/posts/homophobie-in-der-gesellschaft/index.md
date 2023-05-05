@@ -17,6 +17,8 @@ Es ist Samstag. Normalerweise sollte das Wankdorf Center stark besucht sein. All
 
 {{<box title="Weitere Informationen zur Person:">}}
 
+Kishore Tharmalingam (17), er lebt in Ittigen, macht eine Ausbildung als Elektriker und kommt ursprünglich aus Sri Lanka.  
+
 {{</box>}}
 
 #### **Meine ersten Gefühle**
