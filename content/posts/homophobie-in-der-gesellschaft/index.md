@@ -3,10 +3,11 @@ title = "Homophobie in der Gesellschaft"
 date = "2023-03-17"
 draft = false
 pinned = false
+description = "Interview mit Kishore Tharmalingam"
 +++
 {{<lead>}}
 
-Wie beeinflusst die sexuelle Orientierung die Gesellschaft? In der Schweiz gibt es 500.000 Menschen, die schwul, lesbisch oder bisexuell sind - Kishore ist einer von ihnen. Hier ist seine Geschichte.
+#### Wie beeinflusst die sexuelle Orientierung die Gesellschaft? In der Schweiz gibt es 500.000 Menschen, die schwul, lesbisch oder bisexuell sind - Kishore ist einer von ihnen. Hier ist seine Geschichte.
 
 {{<lead>}}
 
