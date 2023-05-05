@@ -60,7 +60,7 @@ Langsam versammeln sich die YB-Fans vor dem Wankdorf Stadion und das Gespräch n
 
 
 
-{{<box title="Weitere Informationen über Homophobie">}}
+{{<box title="Weitere Informationen über Homophobie:">}}
 
 Homophobie wird in den Sozialwissenschaften zusammen mit Phänomenen wie Rassismus, Xenophobie oder Sexismus unter den Begriff „gruppenbezogene Menschenfeindlichkeit“ gefasst. Als Lesbophobie wird ein sich mit Homophobie überschneidendes, sexistisches Verhalten gegenüber lesbischen Frauen bezeichnet und ist durch eine doppelte Diskriminierung der davon betroffenen Frauen charakterisiert. 
 
