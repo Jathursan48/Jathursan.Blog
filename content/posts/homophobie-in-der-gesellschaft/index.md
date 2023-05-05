@@ -25,7 +25,7 @@ Kishore ist 15 Jahre alt, als ihm zum ersten Mal auffällt, dass er Gefühle fü
 
 > Meine Eltern waren für mich da, als ich niemanden hatte.
 
-Seine Eltern würde er eher als lockere, entspannte Menschen beschreiben, die dieses Thema auch eher locker aufgenommen haben. Beim Abendessen unterhält er sich gelegentlich mit seiner Familie über Themen wie Sexualität und Verhütung. Eines Abends beschloss er, offen über seine sexuelle Orientierung zu sprechen und äußerte seine Gefühle, die er für einen Jungen empfindet.
+Seine Eltern würde er eher als lockere, entspannte Menschen beschreiben, die dieses Thema auch eher locker aufgenommen haben. Beim Abendessen unterhält er sich gelegentlich mit seiner Familie über Themen wie Sexualität und Verhütung. Eines Abends beschloss er, offen über seine sexuelle Orientierung zu sprechen und äusserte seine Gefühle, die er für einen Jungen empfindet.
 
 <hr>
 
