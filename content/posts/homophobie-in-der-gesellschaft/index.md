@@ -51,8 +51,6 @@ Das Gespräch wird plötzlich emotional und Kishore fängt an zu weinen. Es ist 
 
 Langsam versammeln sich die YB-Fans vor dem Wankdorf Stadion und das Gespräch neigt sich dem Ende zu. Abschließend schildert Kishore: "Für die Zukunft wünsche ich mir Frieden auf der ganzen Welt und dass jeder Mensch so akzeptiert wird, wie er ist."
 
-
-
 {{<box title="Weitere Informationen über Homophobie:">}} Homophobie wird in den Sozialwissenschaften zusammen mit Phänomenen wie Rassismus, Xenophobie oder Sexismus unter den Begriff „gruppenbezogene Menschenfeindlichkeit“ gefasst. Als Lesbophobie wird ein sich mit Homophobie überschneidendes, sexistisches Verhalten gegenüber lesbischen Frauen bezeichnet und ist durch eine doppelte Diskriminierung der davon betroffenen Frauen charakterisiert. 
 
 Bei Homophobie gibt es viele Einflussfaktoren, die für Vorurteile und Diskriminierung allgemein gelten: Es gibt sehr viel Forschung dazu, warum Menschen andere Gruppen abwerten. Unter anderem hat es etwas mit dem internalisierten Schubladendenken zu tun. Menschen müssen ihre Umwelt vereinfachen und kategorisieren, um sie verstehen zu können, das macht unser Gehirn schon von ganz allein.                                               {{</box>}}
