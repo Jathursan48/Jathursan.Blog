@@ -9,7 +9,7 @@ description = ""
 
 {{</lead>}}
 
-Es ist Samstag. Normalerweise sollte das Wankdorf Center stark besucht sein. Alle Läden sind offen, aber kaum Besuchende umgeben, es herrscht Stille, kein Kindergeschrei oder Geräusche vom Einkassieren im Supermarkt. Am Café Sapori d'Italia kreuzt ein junger Mann auf. Es ist Kishore. Er ist dezent gekleidet und hält eine Tasche in der Hand, auf der ein Regenbogen zu sehen ist. Seine erste Haltung wirkt schüchtern und nervös, aber er empfängt mich herzlich. Kishore geht zur Kellnerin und bestellt zwei Kaffees zum Hiertrinken. Er bietet mir einen Platz an und setzt sich mir gegenüber. "Ich finde es gut, dass Sie das Thema Homosexualität aufgreifen", sagt er zu mir.
+Samstagmorgen im Wankdorf Center. Normalerweise wimmelt es hier von Menschen, aber heute herrscht Stille. Kein Kinderlachen, kein Gemurmel von Passanten und kein Rattern der Kassiermaschinen ist zu hören. Die Läden sind geöffnet, aber es gibt kaum Besucher. Am Café Sapori d'Italia kreuzt ein junger Mann auf. Es ist Kishore. Er ist dezent gekleidet und trägt eine Tasche mit einem Regenbogen-Muster. Obwohl er auf den ersten Blick schüchtern und nervös wirkt, begrüsst er mich herzlich. Kishore geht zur Kellnerin und bestellt zwei Kaffees zum Hiertrinken. Dann bietet er mir einen Platz an und setzt sich mir gegenüber. "Ich finde es gut, dass Sie das Thema Homosexualität aufgreifen", sagt er zu mir.
 
 ![Tasche von Kishore mit Regenbogen](originallle-2-2-2-2-2.jpg)
 
@@ -38,8 +38,6 @@ Das Wankdorf Center füllt sich langsam mit immer mehr Menschen und die Luft wir
 {{<box>}} Die LGBT-Bewegung setzt sich für die Gleichberechtigung und Anerkennung von Lesben, Schwulen, Bisexuellen und Transgender-Personen ein. Sie kämpft gegen Diskriminierung und setzt sich für die rechtliche Anerkennung von gleichgeschlechtlichen Partnerschaften ein. Die Bewegung hat in vielen Ländern zur Legalisierung der gleichgeschlechtlichen Ehe beigetragen und setzt sich auch für die Akzeptanz von Transgender-Personen ein.
 
 Auch in der Schweiz kommt die Akzeptanz von Homosexuellen langsam in Gang. Am 26. September 2021 wurde darüber abgestimmt, ob die Ehe auch für gleichgeschlechtliche Paare geöffnet werden soll. Die Schweiz hat mit Ja entschieden. Mit einem Ergebnis von 64,1 % zu 35,9 % wurde diese Abstimmung angenommen.                                                                                                                                                          {{</box>}}
-
-
 
 #### **Unter falschen Freunden**
 
