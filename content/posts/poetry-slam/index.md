@@ -13,13 +13,13 @@ mitleid kriegst du von allein, neid musst du dir erarbeiten.
 
 Heute steh‘ich hier und weiss, keiner kann mir was, ausser Gott, denn er hat hier diesen Mann gemacht,   
 
-ich war ein guter junge, mit Anstand und Respekt, doch ich fing an zu den falschen Leuten aufzublicken, die für Geld, alles machen würden, 
+Ich war ein guter junge, mit Anstand und Respekt, doch ich fing an zu den falschen Leuten aufzublicken, die für Geld, alles machen würden, 
 
-ich fürchte mich nicht vor den Tod, denn Gott ist mein Engel aus Flügeln, 
+Ich fürchte mich nicht vor den Tod, denn Gott ist mein Engel aus Flügeln, 
 
 Wer entscheidet schon was falsch oder richtig ist, es liegt einzig und allein in Gottes Hand,  
 
-meine Herkunft strasse, ich leb die strasse,  
+Meine Herkunft strasse, ich leb die strasse,  
 
 die strasse ist unter meiner Hand, wenn ich laufe, wechselst du die Strassenseite, siehst du ich lache nicht, siehst du ich habe keine angst, 
 
