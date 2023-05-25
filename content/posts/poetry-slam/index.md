@@ -9,7 +9,7 @@ image = "f5d58277-0001-0004-0000-000001323808_w718_r1.4987819732034104_fpx57.38_
 
 Ich werde von vielen geliebt, ich werde von vielen gehasst, weil alle wollen, was ich hab, 
 
-mitleid kriegst du von allein, neid musst du dir erarbeiten.
+mitleid kriegst du von allein, neid musst du dir erarbeiten.
 
 Heute steh‘ich hier und weiss, keiner kann mir was, ausser Gott, denn er hat hier diesen Mann gemacht,   
 
