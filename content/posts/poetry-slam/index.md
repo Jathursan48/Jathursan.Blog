@@ -3,7 +3,7 @@ title = "Poetry Slam"
 date = "2023-05-25"
 draft = false
 pinned = false
-image = "https://api6.iloveimg.com/v1/download/Aqf1363sljjy9vtbg6sx3n342g43m91cnz6tnw1dqkbzbs0wtfrks7dsj5p08vf2lfzxA10w2Ap19927kjj83c7lnyv6p9kt07b24s72Aw3rn05658ytkbs9zd9m5jmgwmnqm40zjrtgwr9vlt5yvv2rjpxyggnzk6zl43wt19m2vA7kx0yq"
+image = "f5d58277-0001-0004-0000-000001323808_w718_r1.4987819732034104_fpx57.38_fpy50-2.jpg"
 +++
 **Das Leben**
 
