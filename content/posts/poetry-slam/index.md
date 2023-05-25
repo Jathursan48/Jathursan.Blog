@@ -21,6 +21,6 @@ Wer entscheidet schon was falsch oder richtig ist, es liegt einzig un
 
 Meine Herkunft strasse, ich leb die strasse,  
 
-die strasse ist unter meiner Hand, wenn ich laufe, wechselst du die Strassenseite, siehst du ich lache nicht, siehst du ich habe keine angst, 
+die strasse ist unter meiner Hand, ihr klettert auf die Bäume, wenn ich laufe, wechselst du die Strassenseite, siehst du ich lache nicht, siehst du ich habe keine angst, 
 
 Ich bleib der Sohn eines Manns,
