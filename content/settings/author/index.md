@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Jathursan Atputhalingam"
-image = "/media/488467e6-55e3-46e7-a1cb-8351824f91f3.jpeg"
+image = "/media/105e71a3-ce1c-47e5-8aaf-6146a3e85509.jpeg"
 url = "/about/"
 +++
