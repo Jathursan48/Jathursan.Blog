@@ -51,6 +51,10 @@ Ihr klettert auf die Bäume, 
 
 Wenn ich laufe, wechselst du die Strassenseite, 
 
+siehst du ich lache nicht, siehst du ich weine nicht, ich fürchte mich nicht,
+
+
+
 Meine Felgen schwarzmatt und ihr seid schachmatt, 
 
 Ich bin frisch tätowiert und hier integriert.
