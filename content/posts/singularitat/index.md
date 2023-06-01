@@ -14,9 +14,13 @@ image = "dasselbe-schwarze-loch-wie-im.jpg"
 
 Singularität bezieht sich auf einen hypothetischen Zeitpunkt, an dem künstliche Intelligenz ein Niveau der Intelligenz erreicht, das die menschliche Intelligenz übertrifft.
 
-**Wann kommt die technologische Singularität?**
+**Übermenschliche Intelligenz: Ist es möglich?**
 
-Kurzweil legt das Datum der Singularität auf das Jahr 2045 fest. Nach seiner Abschätzung wird zu diesem Zeitpunkt die Rechenleistung der KI die der gesamten Menschheit um den Faktor eine Milliarde übersteigen.
+Die Frage, ob künstliche übermenschliche Intelligenz entwickelt werden kann, ist eine äußerst komplexe und kontroverse Frage. Einige Experten glauben, dass wir irgendwann KI-Systeme schaffen könnten, die unsere eigenen kognitiven Fähigkeiten übertreffen. Diese KI-Systeme könnten schneller denken, mehr Wissen speichern und komplexe Probleme besser lösen als wir Menschen. Die potenziellen Vorteile wären enorm, da sie uns bei der Lösung komplexer wissenschaftlicher, medizinischer und technischer Herausforderungen unterstützen könnten.
+
+**Entwicklung von Künstlicher Intelligenz**
+
+Die Entwicklung von KI hat in den letzten Jahrzehnten erhebliche Fortschritte gemacht. Von einfachen logischen Regeln bis hin zu maschinellem Lernen und neuronalen Netzen haben wir Methoden entwickelt, um Computer dazu zu bringen, komplexe Aufgaben zu bewältigen. Mit der zunehmenden Rechenleistung und Datenverfügbarkeit haben wir auch Fortschritte in den Bereichen maschinelles Sehen, Spracherkennung und sogar automatisierte Entscheidungsfindung erzielt.
 
 **Definition von I.J. Good**
 
