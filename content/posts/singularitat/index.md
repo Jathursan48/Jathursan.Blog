@@ -8,6 +8,8 @@ image = "dasselbe-schwarze-loch-wie-im.jpg"
 +++
 ## Kann Künstliches, übermenschliche Intelligenz entwickeln?
 
+![](dasselbe-schwarze-loch-wie-im.jpg)
+
 **Singularität in der Informatik**
 
 Singularität bezieht sich auf einen hypothetischen Zeitpunkt, an dem künstliche Intelligenz ein Niveau der Intelligenz erreicht, das die menschliche Intelligenz übertrifft.
