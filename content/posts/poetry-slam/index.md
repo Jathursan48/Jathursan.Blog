@@ -3,6 +3,7 @@ title = "Poetry Slam"
 date = "2023-05-25"
 draft = false
 pinned = false
+tags = ["Poetry-Slam"]
 image = "f5d58277-0001-0004-0000-000001323808_w718_r1.4987819732034104_fpx57.38_fpy50-2.jpg"
 +++
 **Das Leben**
