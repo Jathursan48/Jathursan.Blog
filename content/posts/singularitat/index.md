@@ -8,7 +8,7 @@ image = "dasselbe-schwarze-loch-wie-im.jpg"
 +++
 ## Kann Künstliches, übermenschliche Intelligenz entwickeln?
 
-![](dasselbe-schwarze-loch-wie-im.jpg)
+![Fiktive Vorstellung der Singularität](dasselbe-schwarze-loch-wie-im.jpg)
 
 **Singularität in der Informatik**
 
