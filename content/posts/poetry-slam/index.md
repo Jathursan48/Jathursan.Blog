@@ -7,20 +7,50 @@ image = "f5d58277-0001-0004-0000-000001323808_w718_r1.4987819732034104_fpx57.38_
 +++
 **Das Leben**
 
-Ich werde von vielen geliebt, ich werde von vielen gehasst, weil alle wollen, was ich hab, 
+Es war ne verdammt harte Zeit, 
 
-Mitleid kriegst du von allein, Neid musst du dir erarbeiten.
+Ich wurde von vielen geliebt, 
 
-Heute steh‘ich hier und weiss, keiner kann mir was, ausser Gott, denn er hat hier diesen Mann gemacht,   
+Ich wurde von vielen gehasst, weil alle wollen, was ich hab,
 
-Ich war ein guter junge, mit Anstand und Respekt, doch ich fing an zu den falschen Leuten aufzublicken, die für Geld, alles machen würden, 
+ 
 
-Ich fürchte mich nicht vor den Tod, denn Gott ist mein Engel aus Flügeln, 
+Mitleid kriegst du von allein, Neid musst du dir erarbeiten,
 
-Wer entscheidet schon was falsch oder richtig ist, es liegt einzig und allein in Gottes Hand,  
+Meine Gefühle waren ihr egal, 
 
-Meine Herkunft Strasse, ich leb die Strasse,  
+Ihr Geständnis wurde mein Gefängnis, 
 
-die Strasse ist unter meiner Hand, ihr klettert auf die Bäume, wenn ich laufe, wechselst du die Strassenseite, siehst du ich lache nicht, siehst du ich habe keine angst, 
+Ich wollte doch nur dass du lachst, ich wollte niemals, dass du weinst
 
-Ich bleib der Sohn eines Manns,
+Und dieses Leben, was ich lebe, will keiner sehen,
+
+ 
+
+Gib Gott nicht die Schuld, dass du allein bist, 
+
+Gib Gott nicht die Schuld, dass du verzweifelst. 
+
+Schau mich an, siehst du was aus mir wird? 
+
+Was aus mir wird, was der Hass jetzt bewirkt?
+
+Trotz allem steh ich hier und weiss, keiner kann mir was, ausser Gott, 
+
+Denn er hat hier diesen Mann gemacht.
+
+ 
+
+Siehst du die Strasse, 
+
+Meine Herkunft Strasse, ich leb die Strasse, 
+
+Die Strasse ist unter meiner Hand 
+
+Ihr klettert auf die Bäume, 
+
+Wenn ich laufe, wechselst du die Strassenseite, 
+
+Meine Felgen schwarzmatt und ihr seid schachmatt, 
+
+Ich bin frisch tätowiert und hier integriert.
