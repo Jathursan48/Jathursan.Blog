@@ -4,6 +4,7 @@ date = "2023-05-11"
 draft = false
 pinned = false
 tags = ["Informatik"]
+image = "dasselbe-schwarze-loch-wie-im.jpg"
 +++
 ## Kann Künstliches, übermenschliche Intelligenz entwickeln?
 
