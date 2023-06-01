@@ -45,7 +45,7 @@ Siehst du die Strasse, 
 
 Meine Herkunft Strasse, ich leb die Strasse, 
 
-Die Strasse ist unter meiner Hand 
+Die Strasse ist unter meiner Hand,
 
 Ihr klettert auf die Bäume, 
 
