@@ -1,7 +1,7 @@
 +++
 title = "About me"
 draft = false
-image = "a957f4b3-6b62-4a08-9efc-4cb55443ceb3.jpeg"
+image = "0e5bddd1-07ab-4ba1-8741-eba9ba86b0bc.jpeg"
 description = ""
 +++
 Jathursan Atputhalingam besucht das Gymnasium Campus Muristalden.
