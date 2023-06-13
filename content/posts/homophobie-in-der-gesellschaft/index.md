@@ -23,17 +23,13 @@ Samstagmorgen im Wankdorf Center. Normalerweise wimmelt es hier von Menschen, ab
 
 Kishore war 15 Jahre alt, als ihm zum ersten Mal auffällt, dass er Gefühle für einen Jungen empfindet. Während Wochen verfolgt ihn diese Unsicherheit. Kishore sucht nach Gesprächen mit seinen Freunden, aber erfolglos. Keiner ist offen für ein Gespräch. Nicht nur Kishore fiel es schwer, offen über seine sexuelle Orientierung zu sprechen. Vielen Jugendlichen geht es genauso, aus Angst vor Prügel, verbalen Attacken sowie Hassbriefen.
 
-#### **Familie über alles**
+#### **Zusammen sind wir stark**
 
 > Meine Eltern waren für mich da, als ich niemanden hatte.
 
 Seine Eltern würde er eher als lockere, entspannte Menschen beschreiben, die dieses Thema auch eher locker aufgenommen haben. Beim Abendessen unterhält er sich gelegentlich mit seiner Familie über Themen wie Sexualität und Verhütung. Eines Abends beschloss er, offen über seine sexuelle Orientierung zu sprechen und äusserte seine Gefühle, die er für einen Jungen empfindet.
 
-<hr>
-
 Die Menschenmenge im Wankdorf Center wächst langsam an und die Luft wird dichter. Ein Mann in einem YB-Trikot eilt an uns vorbei. "Heute spielt YB", höre ich zwei Frauen sagen. Währenddessen schlürft Kishore seinen Kaffee. Trotz des Trubels um uns herum bleibt Kishore ruhig und entspannt. Wir unterhalten uns weiter.
-
-#### **Zusammen sind wir stark**
 
 > Auch durch die LGBT-Bewegung werden Homosexuelle immer mehr als Menschen akzeptiert.
 
