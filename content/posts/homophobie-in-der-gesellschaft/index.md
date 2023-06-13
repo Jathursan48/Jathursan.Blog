@@ -15,7 +15,7 @@ Samstagmorgen im Wankdorf Center. Normalerweise wimmelt es hier von Menschen, ab
 
 ![Tasche von Kishore mit Regenbogen-Muster](originallle-2-2-2-2-2.jpg)
 
-{{<box>}} Rund Zehn Prozent aller Erwachsenen in der Schweiz halten Homosexualität für unmoralisch. Das zeigt eine neue Untersuchung.                                                                                                                            {{</box>}}
+{{<box>}} Rund zehn Prozent aller Erwachsenen in der Schweiz halten Homosexualität für unmoralisch. Das zeigt eine neue Untersuchung.                                                                                                                            {{</box>}}
 
 #### **Meine ersten Gefühle**
 
