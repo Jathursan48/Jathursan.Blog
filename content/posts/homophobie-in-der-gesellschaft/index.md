@@ -4,7 +4,7 @@ date = "2023-03-17"
 draft = false
 pinned = false
 tags = ["Sexualität"]
-image = "originallle-2-2-2-2-2.jpg"
+image = "ori-2-2.jpg"
 description = ""
 +++
 {{<lead>}} Wie beeinflusst die sexuelle Orientierung die Gesellschaft? In der Schweiz gibt es 500.000 Menschen, die schwul, lesbisch oder bisexuell sind - Kishore ist einer von ihnen. Hier ist seine Geschichte. 
