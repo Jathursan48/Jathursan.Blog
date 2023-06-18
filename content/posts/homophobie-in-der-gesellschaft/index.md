@@ -11,7 +11,7 @@ description = ""
 
 {{</lead>}}
 
-Samstagmorgen im Wankdorf Center. Normalerweise wimmelt es hier von Menschen, aber heute herrscht Stille. Kein Kinderlachen, kein Gemurmel von Passanten und kein Rattern der Kassiermaschinen ist zu hören. Die Läden sind geöffnet, aber es gibt kaum Besucher. Am Café Sapori d'Italia kreuzt ein junger Mann auf. Es ist Kishore. Er ist dezent gekleidet und trägt eine Tasche mit einem Regenbogen-Muster. Obwohl er auf den ersten Blick schüchtern und nervös wirkt, begrüsst er mich herzlich. Kishore geht zur Kellnerin und bestellt zwei Kaffees zum Hiertrinken. Dann bietet er mir einen Platz an und setzt sich mir gegenüber. "Ich finde es gut, dass Sie das Thema Homosexualität aufgreifen", sagt er zu mir.
+Samstagmorgen im Wankdorf Center. Normalerweise wimmelt es hier von Menschen, aber heute herrscht Stille. Kein Kinderlachen, kein Gemurmel von Passanten und kein Rattern der Kassiermaschinen ist zu hören. Die Läden sind geöffnet, aber es gibt kaum Besucher. Am Café Sapori d'Italia kreuzt ein junger Mann auf. Es ist Kishore, 17 Jahre alt, lebt in Ittigen, absolviert eine Ausbildung als Elektriker und stammt ursprünglich aus Sri Lanka. Er ist dezent gekleidet und trägt eine Tasche mit einem Regenbogen-Muster. Obwohl er auf den ersten Blick schüchtern und nervös wirkt, begrüsst er mich herzlich. Kishore geht zur Kellnerin und bestellt zwei Kaffees zum Hiertrinken. Dann bietet er mir einen Platz an und setzt sich mir gegenüber. "Ich finde es gut, dass Sie das Thema Homosexualität aufgreifen", sagt er zu mir.
 
 ![Tasche von Kishore mit Regenbogen-Muster](ori-2-2.jpg)
 
@@ -50,9 +50,3 @@ Vor dem Wankdorf-Stadion sehe ich eine grosse Gruppe von YB-Fans, die sich auf d
 {{<box title="Weitere Informationen über Homophobie:">}} Homophobie wird in den Sozialwissenschaften zusammen mit Phänomenen wie Rassismus, Xenophobie oder Sexismus unter dem Begriff „gruppenbezogene Menschenfeindlichkeit“ gefasst. Als Lesbophobie wird ein sich mit Homophobie überschneidendes, sexistisches Verhalten gegenüber lesbischen Frauen bezeichnet und charakterisiert eine doppelte Diskriminierung der davon betroffenen Frauen. 
 
 Bei Homophobie gibt es viele Einflussfaktoren, die für Vorurteile und Diskriminierung allgemein gelten: Es gibt sehr viel Forschung dazu, warum Menschen andere Gruppen abwerten. Unter anderem hat es etwas mit dem internalisierten Schubladendenken zu tun. Menschen müssen ihre Umwelt vereinfachen und kategorisieren, um sie verstehen zu können, das macht unser Gehirn schon von ganz allein.                                               {{</box>}}
-
-{{<box title="Weitere Informationen zur Person:">}}
-
-Kishore Tharmalingam (17), er lebt in Ittigen, macht eine Ausbildung als Elektriker und kommt ursprünglich aus Sri Lanka.  
-
-{{</box>}}
