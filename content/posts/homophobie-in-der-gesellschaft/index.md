@@ -27,7 +27,7 @@ Kishore war 15 Jahre alt, als ihm zum ersten Mal auffällt, dass er Gefühle fü
 
 > Meine Eltern waren für mich da, als ich niemanden hatte.
 
-Seine Eltern würde er eher als lockere, entspannte Menschen beschreiben, die dieses Thema auch eher locker aufgenommen haben. Beim Abendessen unterhält er sich gelegentlich mit seiner Familie über Themen wie Sexualität und Verhütung. Eines Abends beschloss er, offen über seine sexuelle Orientierung zu sprechen und äusserte seine Gefühle, die er für einen Jungen empfindet.
+Seine Eltern würde er eher als entspannte, gelassene Menschen beschreiben, die dieses Thema auch eher lässig aufgenommen haben. Beim Abendessen unterhält er sich gelegentlich mit seiner Familie über Themen wie Sexualität und Verhütung. Eines Abends beschloss er, offen über seine sexuelle Orientierung zu sprechen und äusserte seine Gefühle, die er für einen Jungen empfindet.
 
 Die Menschenmenge im Wankdorf Center wächst langsam an und die Luft wird dichter. Ein Mann in einem YB-Trikot eilt an uns vorbei. "Heute spielt YB", höre ich zwei Frauen sagen. Währenddessen schlürft Kishore seinen Kaffee. Trotz des Trubels um uns herum bleibt Kishore ruhig und entspannt. Wir unterhalten uns weiter.
 
